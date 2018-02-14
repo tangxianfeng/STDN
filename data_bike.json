@@ -1,0 +1,13 @@
+{
+    "volume_train": "./data/bike_volume_train.npz",
+    "volume_test": "./data/bike_volume_test.npz",
+    "flow_train": "./data/bike_flow_train.npz",
+    "flow_test": "./data/bike_flow_test.npz",
+    "volume_train_max": 299.0,
+    "volume_test_max": 307.0,
+    "flow_train_max": 35.0,
+    "flow_test_max": 35.0,
+    "timeslot_sec": 1800,
+    "threshold": 10,
+    "description": "./data/Readme_bike.txt"
+}

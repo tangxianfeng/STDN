@@ -1,0 +1,13 @@
+{
+    "volume_train": "./data/volume_train.npz",
+    "volume_test": "./data/volume_test.npz",
+    "flow_train": "./data/flow_train.npz",
+    "flow_test": "./data/flow_test.npz",
+    "volume_train_max": 1283.0,
+    "volume_test_max": 1289.0,
+    "flow_train_max": 122.0,
+    "flow_test_max": 173.0,
+    "timeslot_sec": 1800,
+    "threshold": 10,
+    "description": "./data/Readme.txt"
+}
