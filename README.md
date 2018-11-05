@@ -8,11 +8,17 @@ Modeling Spatial-Temporal Dynamics for Traffic Prediction
 https://arxiv.org/abs/1803.01254
 
 If the code helps you, please cite our paper:
+
 @article{yao2018modeling,
+
   title={Modeling Spatial-Temporal Dynamics for Traffic Prediction},
+  
   author={Yao, Huaxiu and Tang, Xianfeng and Wei, Hua and Zheng, Guanjie and Yu, Yanwei and Li, Zhenhui},
+  
   journal={arXiv preprint arXiv:1803.01254},
+  
   year={2018}
+  
 }
 
 
