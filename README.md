@@ -7,14 +7,15 @@ Please check the paper for more details:
 Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction
 https://arxiv.org/abs/1803.01254
 
-If the code helps you, please cite our paper:
-
->@article{yao2019revisiting,
->  title={Modeling Spatial-Temporal Dynamics for Traffic Prediction},
->  author={Yao, Huaxiu and Tang, Xianfeng and Wei, Hua and Zheng, Guanjie and Li, Zhenhui},
->  journal={2019 AAAI Conference on Artificial Intelligence (AAAI'19)},
->  year={2019} 
->}
+If you find this repository useful in your research, please cite the following paper:
+```
+@inproceedings{yao2019revisiting,
+  title={Modeling Spatial-Temporal Dynamics for Traffic Prediction},
+  author={Yao, Huaxiu and Tang, Xianfeng and Wei, Hua and Zheng, Guanjie and Li, Zhenhui},
+  journal={2019 AAAI Conference on Artificial Intelligence (AAAI'19)},
+  year={2019} 
+}
+```
 
 
 Requirements
