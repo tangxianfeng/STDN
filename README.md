@@ -4,16 +4,16 @@
 Code & Data for our Spatiotemporal Dynamic Network
 
 Please check the paper for more details:
-Modeling Spatial-Temporal Dynamics for Traffic Prediction
+Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction
 https://arxiv.org/abs/1803.01254
 
 If the code helps you, please cite our paper:
 
->@article{yao2018modeling,
+>@article{yao2019revisiting,
 >  title={Modeling Spatial-Temporal Dynamics for Traffic Prediction},
->  author={Yao, Huaxiu and Tang, Xianfeng and Wei, Hua and Zheng, Guanjie and Yu, Yanwei and Li, Zhenhui},
->  journal={arXiv preprint arXiv:1803.01254},
->  year={2018} 
+>  author={Yao, Huaxiu and Tang, Xianfeng and Wei, Hua and Zheng, Guanjie and Li, Zhenhui},
+>  journal={2019 AAAI Conference on Artificial Intelligence (AAAI'19)},
+>  year={2019} 
 >}
 
 
