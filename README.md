@@ -35,3 +35,6 @@ Requirements
   python main.py --dataset=bike
   ```
   - Check the output results (RMSE and MAPE). Models are saved to "hdf5s" folder for further use.
+  
+## Hyperparameters:
+Please check the hyperparameters defined in main.py
