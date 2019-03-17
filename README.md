@@ -22,7 +22,6 @@ Requirements
   - tensorflow-gpu (or tensorflow) == 1.3.0 ([install guide](https://www.tensorflow.org/versions/r1.0/install/install_linux))
 
 ## Usage
-###Running Steps
   - Download all codes (*\*.py*) and put them in the same folder (let's name it "stdn") (*stdn/\*.py*)
   - Create "data" folder in the same folder (*stdn/data/*)
   - Create "hdf5s" folder for logs (if not exist) (*stdn/hdf5s/*)
